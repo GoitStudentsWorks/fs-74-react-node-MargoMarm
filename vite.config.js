@@ -10,5 +10,5 @@ export default defineConfig({
       components: "/src/components",
     },
   },
-  base: "/september-project/",
+  base: "/fs-74-react-node-MargoMarm/",
 });
