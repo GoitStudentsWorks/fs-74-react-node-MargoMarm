@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <PersistGate loading={null} persistor={persistor}>
       <Provider store={store}>
-        <BrowserRouter basename="/september-project">
+        <BrowserRouter basename="/fs-74-react-node-MargoMarm">
           <App />
         </BrowserRouter>
       </Provider>
